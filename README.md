@@ -1,3 +1,3 @@
 # AmazonProductReviews
 
-_Using BeautifulSoup to scrap the ProductReviews_
+_Using BeautifulSoup to scrap the ProductReviews in Amazon_
